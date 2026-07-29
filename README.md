@@ -1,6 +1,6 @@
 # mahesh.dev
 
-Personal portfolio built with Next.js — neon-terminal cinematic experience.
+Personal portfolio built with Next.js — neon-terminal experience.
 
 ## Stack
 
