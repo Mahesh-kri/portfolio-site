@@ -55,7 +55,7 @@ export default function Hero() {
             <div className="mt-6 flex gap-4 items-center">
               <MagneticButton
                 as="a"
-                href="/resume.pdf"
+                href="/portfolio-site/resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="px-5 py-2.5 rounded text-sm font-mono transition-all duration-300"
@@ -103,7 +103,7 @@ export default function Hero() {
                 }}
               >
                 <Image
-                  src="/profile.jpg"
+                  src="/portfolio-site/profile.jpg"
                   alt="Mahesh"
                   layout="fill"
                   objectFit="cover"

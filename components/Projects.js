@@ -11,10 +11,10 @@ const projects = [
     tags: ['Spring Boot', 'Next.js'],
     status: 'Live client project',
     screenshots: [
-      { src: '/screenshots/shot-1.png' },
-      { src: '/screenshots/shot-2.png' },
-      { src: '/screenshots/shot-3.png' },
-      { src: '/screenshots/shot-4.png' },
+      { src: '/portfolio-site/screenshots/shot-1.png' },
+      { src: '/portfolio-site/screenshots/shot-2.png' },
+      { src: '/portfolio-site/screenshots/shot-3.png' },
+      { src: '/portfolio-site/screenshots/shot-4.png' },
     ],
   },
 ]

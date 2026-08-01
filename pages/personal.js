@@ -260,7 +260,7 @@ export default function Personal() {
           <section className="mt-8 text-center">
             <Reveal>
               <a
-                href="/"
+                href="/portfolio-site/"
                 className="inline-flex items-center gap-2 text-xs font-mono hover:text-gray-200 transition-colors duration-300 group"
                 style={{ color: 'var(--neon-cyan)' }}
               >

@@ -231,7 +231,7 @@ export default function Contact() {
           <section className="mt-10 text-center">
             <Reveal>
               <a
-                href="/"
+                href="/portfolio-site/"
                 className="inline-flex items-center gap-2 text-xs font-mono hover:text-gray-200 transition-colors duration-300"
                 style={{ color: 'var(--neon-cyan)' }}
               >
