@@ -49,7 +49,7 @@ export default function Hero() {
             </p>
 
             <p className="mt-4 text-sm text-text/60 max-w-xl leading-relaxed">
-              Backend engineer building clean, reliable event-driven systems — currently based in Kochi.
+              Backend engineer building clean, reliable event-driven systems — currently based in Dublin.
             </p>
 
             <div className="mt-6 flex gap-4 items-center">

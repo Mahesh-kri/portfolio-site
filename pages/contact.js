@@ -10,7 +10,6 @@ import {
   FaCheck,
   FaMapMarkerAlt,
   FaBriefcase,
-  FaGlobeAmericas,
   FaGraduationCap,
   FaRocket,
   FaArrowLeft,
@@ -20,10 +19,9 @@ const infoCards = [
   { icon: FaEnvelope, label: 'Email', value: 'maheshkrishnap.mec@gmail.com', href: 'mailto:maheshkrishnap.mec@gmail.com', action: 'copy' },
   { icon: FaLinkedin, label: 'LinkedIn', value: 'linkedin.com/in/mahesh-krishnap', href: 'https://www.linkedin.com/in/mahesh-krishnap', action: 'link' },
   { icon: FaGithub, label: 'GitHub', value: 'github.com/Mahesh-kri', href: 'https://github.com/Mahesh-kri', action: 'link' },
-  { icon: FaMapMarkerAlt, label: 'From', value: 'Kochi, India' },
-  { icon: FaGlobeAmericas, label: 'Moving to', value: 'Dublin, Ireland' },
+  { icon: FaMapMarkerAlt, label: 'From', value: 'Dublin, Ireland' },
   { icon: FaBriefcase, label: 'Experience', value: '2+ years' },
-  { icon: FaGraduationCap, label: 'Education', value: 'B.Tech CSE + MSc DevOps (starting)' },
+  { icon: FaGraduationCap, label: 'Education', value: 'B.Tech CSE + MSc DevOps (TU Dublin)' },
 ]
 
 export default function Contact() {
@@ -220,7 +218,7 @@ export default function Contact() {
                   <div>
                     <p className="text-xs font-mono tracking-wider" style={{ color: 'rgba(0,255,245,0.7)' }}>Current status</p>
                     <p className="text-xs text-gray-500 mt-1 leading-relaxed">
-                      Currently transitioning &mdash; based in Kochi, moving to Dublin this September for an MSc in Development Operations. Open to contract work and conversations in the meantime.
+                      Now based in Dublin, pursuing an MSc in Development Operations. Open to contract work and conversations.
                     </p>
                   </div>
                 </div>

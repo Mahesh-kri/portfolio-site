@@ -33,7 +33,7 @@ export default function CurrentStatus() {
             Transitioning into Platform Engineering.
           </p>
           <p className="text-sm text-text/50 leading-relaxed">
-            Taking a deliberate break for my MSc in Computing with Development Operations at TU Dublin (September 2026) to deepen my cloud and DevOps fundamentals — Docker, Kubernetes, Terraform, AWS, CI/CD — and shift toward a platform-focused role. Open to conversations, collaborations, and coffee recommendations in Dublin.
+            Currently pursuing my MSc in Computing with Development Operations at TU Dublin, where I&apos;m deepening my cloud and DevOps fundamentals — Docker, Kubernetes, Terraform, AWS, CI/CD — and shifting toward a platform-focused role. Open to conversations, collaborations, and coffee recommendations in Dublin.
           </p>
         </div>
       </div>
